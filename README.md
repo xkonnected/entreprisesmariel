@@ -1,2 +1,2 @@
 # Mutua
-Systeme de gestion de mutuelle
+Systeme de gestion des mutuelle solidarités
